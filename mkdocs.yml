@@ -1,6 +1,6 @@
 site_name: Jewish Music Wiki
 theme:
-  name: materia
+  name: material
   features:
     - navigation.tabs
     - search.suggest
