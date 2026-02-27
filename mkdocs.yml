@@ -1,0 +1,8 @@
+site_name: Jewish Music Wiki
+theme:
+  name: materia
+  features:
+    - navigation.tabs
+    - search.suggest
+repo_url: https://github.com/espire/jewishmusic
+edit_uri: edit/main/docs/
