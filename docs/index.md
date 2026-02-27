@@ -4,7 +4,7 @@ Welcome to the Jewish Music Wiki.
 
 ## Chanukah
 
-* Maoz Tzur -- 
+* Maoz Tzur -- [Nun Freut Euch, Liebe Christen, G'mein](https://www.youtube.com/watch?v=nZ8oOHjsSxQ)
 
 ## Purim
 
@@ -19,6 +19,9 @@ Welcome to the Jewish Music Wiki.
 * A Boy Named Zlateh -- A Boy Named Sue
 * Big Bad Moish -- Big Bad John
 * Shacharis in the Morning -- Sugartime by The McGuire Sisters
+
+## Uncle Moishy
+* Torah Torah Torah -- [Let Us Sing Together](https://www.youtube.com/watch?v=DUKNLlY0278)
 
 ## Other lists
 * [https://open.spotify.com/playlist/2C1R6KRDa4FZ2GpkGLWQGX](https://open.spotify.com/playlist/2C1R6KRDa4FZ2GpkGLWQGX)
