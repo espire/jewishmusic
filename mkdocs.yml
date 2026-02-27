@@ -4,5 +4,6 @@ theme:
   features:
     - navigation.tabs
     - search.suggest
+    - content.action.edit
 repo_url: https://github.com/espire/jewishmusic
 edit_uri: edit/main/docs/
