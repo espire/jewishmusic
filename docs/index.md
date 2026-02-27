@@ -29,6 +29,12 @@ Please feel free to contribute by clicking the edit button in the top right corn
 ## Uncle Moishy
 * Torah Torah Torah -- [Let Us Sing Together](https://www.youtube.com/watch?v=DUKNLlY0278)
 
+## Israeli
+* Hatikvah -- [La Mantovana](https://www.youtube.com/watch?v=KK1Im3cvpz8) by Giuseppe Cenci ca. 1600
+  * See https://en.wikipedia.org/wiki/Hatikvah#Melody_and_its_origins
+* Jerusalem of Gold -- [Pello Joxepe](https://www.youtube.com/watch?v=ttuRcl1dK1M), a Basque lullaby
+  * See https://en.wikipedia.org/wiki/Jerusalem_of_Gold#History
+
 ## Other lists
 * [https://open.spotify.com/playlist/2C1R6KRDa4FZ2GpkGLWQGX](https://open.spotify.com/playlist/2C1R6KRDa4FZ2GpkGLWQGX)
 * [https://forums.dansdeals.com/index.php?topic=6792](https://forums.dansdeals.com/index.php?topic=6792)
