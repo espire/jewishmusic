@@ -21,6 +21,6 @@ Welcome to the Jewish Music Wiki.
 * Shacharis in the Morning -- Sugartime by The McGuire Sisters
 
 ## Other lists
-* (https://open.spotify.com/playlist/2C1R6KRDa4FZ2GpkGLWQGX)
-* (https://forums.dansdeals.com/index.php?topic=6792)
-* (https://the2ndson.substack.com/p/frum-music)
+* [https://open.spotify.com/playlist/2C1R6KRDa4FZ2GpkGLWQGX](https://open.spotify.com/playlist/2C1R6KRDa4FZ2GpkGLWQGX)
+* [https://forums.dansdeals.com/index.php?topic=6792](https://forums.dansdeals.com/index.php?topic=6792)
+* [https://the2ndson.substack.com/p/frum-music](https://the2ndson.substack.com/p/frum-music)
