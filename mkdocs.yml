@@ -7,3 +7,5 @@ theme:
     - content.action.edit
 repo_url: https://github.com/espire/jewishmusic
 edit_uri: edit/main/docs/
+hooks:
+  - hooks/generate_index.py
