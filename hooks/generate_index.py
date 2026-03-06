@@ -20,19 +20,19 @@ def on_config(config, **kwargs):
         content += f"\n\n## {category['name']}\n"
 
         for pair in category.get('pairs', []):
-            content += "\n<table>\n"
-            content += "  <tr>\n"
-            content += f"    <th>{pair['jewish_song']}</th>\n"
-            content += f"    <th>{pair['source_song']}</th>\n"
+            content += "\n<table markdown=\"block\">\n"
+            content += "  <tr markdown=\"block\">\n"
+            content += f"<th markdown=\"block\">{pair['jewish_song']}</th>\n"
+            content += f"<th markdown=\"block\">{pair['source_song']}</th>\n"
             content += "  </tr>\n"
-            content += "  <tr>\n"
-            content += f"    <td><iframe width=\"320\" height=\"180\" src=\"{pair['jewish_url']}\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></td>\n"
-            content += f"    <td><iframe width=\"320\" height=\"180\" src=\"{pair['source_url']}\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></td>\n"
+            content += "  <tr markdown=\"block\">\n"
+            content += f"<td markdown=\"block\"><iframe width=\"320\" height=\"180\" src=\"{pair['jewish_url']}\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></td>\n"
+            content += f"<td markdown=\"block\"><iframe width=\"320\" height=\"180\" src=\"{pair['source_url']}\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></td>\n"
             content += "  </tr>\n"
 
             if 'comment' in pair and pair['comment']:
-                content += "  <tr>\n"
-                content += f"    <td colspan=\"2\" markdown=\"1\">\n\n{pair['comment']}\n\n</td>\n"
+                content += "  <tr markdown=\"block\">\n"
+                content += f"<td colspan=\"2\" markdown=\"block\">\n\n{pair['comment']}\n\n</td>\n"
                 content += "  </tr>\n"
 
             content += "</table>\n"
