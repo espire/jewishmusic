@@ -10,31 +10,151 @@ Please feel free to contribute by clicking the edit button in the top right corn
 
 ## Chanukah
 
-* Maoz Tzur -- [Nun Freut Euch, Liebe Christen, G'mein](https://www.youtube.com/watch?v=nZ8oOHjsSxQ)
+<table>
+  <tr>
+    <th>Maoz Tzur</th>
+    <th>Nun Freut Euch, Liebe Christen, G'mein</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/2HdepdU5dZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/nZ8oOHjsSxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
 
 ## Purim
 
-* Chayav Inish Livsumei seems to be borrowed from [this Hungarian tune](https://youtu.be/mA-m6pE31DY)
-* Mishenichnas Adar -- [Pick A Bale of Cotton](https://youtu.be/pd5ViH_5598)
+<table>
+  <tr>
+    <th>Chayav Inish Livsumei</th>
+    <th>this Hungarian tune</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/6R20yOx508Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/mA-m6pE31DY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Mishenichnas Adar</th>
+    <th>Pick A Bale of Cotton</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/0x9V59imR_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/pd5ViH_5598" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
 
 ## Various Modern Music
 
-* Yehuda!'s [Umacha](https://www.youtube.com/watch?v=-IfpQYFCo94) -- Chris de Burgh's [Snows of New York](https://www.youtube.com/watch?v=RjBLGXhKMp8)
-* MBD's [Yidden](https://www.youtube.com/watch?v=l_aK9rM0mFk) -- [Dschinghis Khan](https://www.youtube.com/watch?v=pzmI3vKIhqU) by Dschinghis Khan
-* Gad Elbaz's [Hashem Melech](https://www.youtube.com/watch?v=eYk1s1A1Auo) -- [C'est la vie](https://www.youtube.com/watch?v=5dWeeUIZFgA) by Khaled
+<table>
+  <tr>
+    <th>Yehuda! - Umacha</th>
+    <th>Snows of New York</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/-IfpQYFCo94" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/RjBLGXhKMp8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>MBD - Yidden</th>
+    <th>Dschinghis Khan</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/l_aK9rM0mFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/pzmI3vKIhqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Gad Elbaz - Hashem Melech</th>
+    <th>C'est la vie</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/eYk1s1A1Auo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/5dWeeUIZFgA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
 
 ## Country Yossi
-* A Boy Named Zlateh -- A Boy Named Sue
-* Big Bad Moish -- Big Bad John
-* Shacharis in the Morning -- Sugartime by The McGuire Sisters
+<table>
+  <tr>
+    <th>Country Yossi - A Boy Named Zlateh</th>
+    <th>A Boy Named Sue</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/2KFs9vXszzI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/eFQsC1DfyWc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Country Yossi - Big Bad Moish</th>
+    <th>Big Bad John</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/mP806v2CFGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/ccMh8w-qsnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Country Yossi - Shacharis in the Morning</th>
+    <th>Sugartime</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/OhZ6S_zW2HU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/pIaWfLoHe8Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
 
 ## Uncle Moishy
-* Torah Torah Torah -- [Let Us Sing Together](https://www.youtube.com/watch?v=DUKNLlY0278)
+<table>
+  <tr>
+    <th>Uncle Moishy - Torah Torah Torah</th>
+    <th>Let Us Sing Together</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/1V0NGThN5jg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/DUKNLlY0278" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
 
 ## Israeli
-* Hatikvah -- [La Mantovana](https://www.youtube.com/watch?v=KK1Im3cvpz8) by Giuseppe Cenci ca. 1600
+<table>
+  <tr>
+    <th>Hatikvah</th>
+    <th>La Mantovana</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/4GfdKYuVK6g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/KK1Im3cvpz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
   * See <https://en.wikipedia.org/wiki/Hatikvah#Melody_and_its_origins>
-* Jerusalem of Gold -- [Pello Joxepe](https://www.youtube.com/watch?v=ttuRcl1dK1M), a Basque lullaby
+<table>
+  <tr>
+    <th>Jerusalem of Gold</th>
+    <th>Pello Joxepe</th>
+  </tr>
+  <tr>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/7nRNL-9NQpw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="320" height="180" src="https://www.youtube.com/embed/ttuRcl1dK1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+
   * See <https://en.wikipedia.org/wiki/Jerusalem_of_Gold#History>
 
 ## Other lists
