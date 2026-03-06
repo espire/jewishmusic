@@ -29,10 +29,13 @@ def on_config(config, **kwargs):
             content += f"    <td><iframe width=\"320\" height=\"180\" src=\"{pair['jewish_url']}\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></td>\n"
             content += f"    <td><iframe width=\"320\" height=\"180\" src=\"{pair['source_url']}\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></td>\n"
             content += "  </tr>\n"
-            content += "</table>\n"
 
             if 'comment' in pair and pair['comment']:
-                content += f"\n  {pair['comment']}\n"
+                content += "  <tr>\n"
+                content += f"    <td colspan=\"2\" markdown=\"1\">\n\n{pair['comment']}\n\n</td>\n"
+                content += "  </tr>\n"
+
+            content += "</table>\n"
 
     other_lists = data.get('other_lists', [])
     if other_lists:
