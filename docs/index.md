@@ -20,6 +20,8 @@ Please feel free to contribute by clicking the edit button in the top right corn
 ## Various Modern Music
 
 * Yehuda!'s [Umacha](https://www.youtube.com/watch?v=-IfpQYFCo94) -- Chris de Burgh's [Snows of New York](https://www.youtube.com/watch?v=RjBLGXhKMp8)
+* MBD's [Yidden](https://www.youtube.com/watch?v=l_aK9rM0mFk) -- [Dschinghis Khan](https://www.youtube.com/watch?v=pzmI3vKIhqU) by Dschinghis Khan
+* Gad Elbaz's [Hashem Melech](https://www.youtube.com/watch?v=eYk1s1A1Auo) -- [C'est la vie](https://www.youtube.com/watch?v=5dWeeUIZFgA) by Khaled
 
 ## Country Yossi
 * A Boy Named Zlateh -- A Boy Named Sue
