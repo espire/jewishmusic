@@ -1,6 +1,7 @@
 site_name: Jewish Music Wiki
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - search.suggest
