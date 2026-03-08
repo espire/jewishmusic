@@ -1,0 +1,113 @@
+{
+  "categories": [
+    {
+      "name": "Chanukah",
+      "pairs": [
+        {
+          "jewish_song": "Maoz Tzur",
+          "jewish_url": "https://www.youtube.com/embed/2HdepdU5dZM",
+          "source_song": "Nun Freut Euch, Liebe Christen, G'mein",
+          "source_url": "https://www.youtube.com/embed/nZ8oOHjsSxQ"
+        }
+      ]
+    },
+    {
+      "name": "Purim",
+      "pairs": [
+        {
+          "jewish_song": "Chayav Inish Livsumei",
+          "jewish_url": "https://www.youtube.com/embed/6R20yOx508Q",
+          "source_song": "this Hungarian tune",
+          "source_url": "https://www.youtube.com/embed/mA-m6pE31DY"
+        },
+        {
+          "jewish_song": "Mishenichnas Adar",
+          "jewish_url": "https://www.youtube.com/embed/0x9V59imR_U",
+          "source_song": "Pick A Bale of Cotton",
+          "source_url": "https://www.youtube.com/embed/pd5ViH_5598"
+        }
+      ]
+    },
+    {
+      "name": "Various Modern Music",
+      "pairs": [
+        {
+          "jewish_song": "Yehuda! - Umacha",
+          "jewish_url": "https://www.youtube.com/embed/-IfpQYFCo94",
+          "source_song": "Snows of New York",
+          "source_url": "https://www.youtube.com/embed/RjBLGXhKMp8"
+        },
+        {
+          "jewish_song": "MBD - Yidden",
+          "jewish_url": "https://www.youtube.com/embed/BtgnNhLa35I",
+          "source_song": "Dschinghis Khan",
+          "source_url": "https://www.youtube.com/embed/l-80laFIW9k"
+        },
+        {
+          "jewish_song": "Gad Elbaz - Hashem Melech",
+          "jewish_url": "https://www.youtube.com/embed/TXFPZCC-OKQ",
+          "source_song": "C'est la vie",
+          "source_url": "https://www.youtube.com/embed/5dWeeUIZFgA"
+        }
+      ]
+    },
+    {
+      "name": "Country Yossi",
+      "pairs": [
+        {
+          "jewish_song": "Country Yossi - A Boy Named Zlateh",
+          "jewish_url": "https://www.youtube.com/embed/2KFs9vXszzI",
+          "source_song": "A Boy Named Sue",
+          "source_url": "https://www.youtube.com/embed/eFQsC1DfyWc"
+        },
+        {
+          "jewish_song": "Country Yossi - Big Bad Moish",
+          "jewish_url": "https://www.youtube.com/embed/mP806v2CFGA",
+          "source_song": "Big Bad John",
+          "source_url": "https://www.youtube.com/embed/ccMh8w-qsnI"
+        },
+        {
+          "jewish_song": "Country Yossi - Shacharis in the Morning",
+          "jewish_url": "https://www.youtube.com/embed/OhZ6S_zW2HU",
+          "source_song": "Sugartime",
+          "source_url": "https://www.youtube.com/embed/pIaWfLoHe8Y"
+        }
+      ]
+    },
+    {
+      "name": "Uncle Moishy",
+      "pairs": [
+        {
+          "jewish_song": "Uncle Moishy - Torah Torah Torah",
+          "jewish_url": "https://www.youtube.com/embed/1V0NGThN5jg",
+          "source_song": "Let Us Sing Together",
+          "source_url": "https://www.youtube.com/embed/DUKNLlY0278"
+        }
+      ]
+    },
+    {
+      "name": "Israeli",
+      "pairs": [
+        {
+          "jewish_song": "Hatikvah",
+          "jewish_url": "https://www.youtube.com/embed/4GfdKYuVK6g",
+          "source_song": "La Mantovana",
+          "source_url": "https://www.youtube.com/embed/KK1Im3cvpz8",
+          "comment": "* See <https://en.wikipedia.org/wiki/Hatikvah#Melody_and_its_origins>"
+        },
+        {
+          "jewish_song": "Jerusalem of Gold",
+          "jewish_url": "https://www.youtube.com/embed/7nRNL-9NQpw",
+          "source_song": "Pello Joxepe",
+          "source_url": "https://www.youtube.com/embed/ttuRcl1dK1M",
+          "comment": "* See <https://en.wikipedia.org/wiki/Jerusalem_of_Gold#History>"
+        }
+      ]
+    }
+  ],
+  "other_lists": [
+    "https://open.spotify.com/playlist/2C1R6KRDa4FZ2GpkGLWQGX",
+    "https://forums.dansdeals.com/index.php?topic=6792",
+    "https://the2ndson.substack.com/p/frum-music"
+  ]
+}
